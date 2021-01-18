@@ -1,4 +1,4 @@
-import { HttpPostClient } from '../http-post-client'
+import { HttpPostClient } from '../../protocol/http/http-post-client'
 
 class RemoteAuthentication {
   constructor (
